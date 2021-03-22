@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491617350827",
+    "project_id": "the-quiz-on-topic",
+    "storage_bucket": "the-quiz-on-topic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491617350827:android:8030504984af782dfe33ee",
+        "android_client_info": {
+          "package_name": "com.mra.thequizontopic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491617350827-ikod8990a9158g0o5287jm2r2brld8mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPqNOU4KDBzZsTM5XxVCFhyo5IO5vtphs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491617350827-ikod8990a9158g0o5287jm2r2brld8mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
